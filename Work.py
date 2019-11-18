@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def add(num1,num2):
     anadd = num1 + num2
     return anadd
@@ -25,3 +26,10 @@ elif decisionx == "div":
     print(div(num1,num2))
 else:
     print("Improper input")
+=======
+x=int(input("Integer:"))
+if x <= 0:
+    print('Negaive changed to zero')
+else:
+    print('FAIL')
+>>>>>>> 41f6f21e3f22261574dfbe1e3dcc727dd2a97ca4
