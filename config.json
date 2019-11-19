@@ -1,0 +1,13 @@
+{
+    "sensors": [
+        { "Name": "item1",
+        "min": -1,
+        "max": 15, 
+        },
+        { "Name": "item2",           
+            "min": -1,
+            "max": 15,
+},
+        
+
+        
